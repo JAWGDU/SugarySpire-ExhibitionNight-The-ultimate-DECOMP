@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_cottonblocks",
-  "bbox_bottom": 703,
+  "bbox_bottom": 443,
   "bbox_left": 0,
-  "bbox_right": 671,
-  "bbox_top": 0,
+  "bbox_right": 755,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"30e73d7d-414e-4489-aa3b-9f1c5fff2330",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d2a62f00-5c9b-43a6-84be-631657db6794",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 704,
+  "height": 792,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f852c9d3-6e1a-4973-a2e0-c84a2d467688","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e2e98bac-005c-4c91-9c43-da6cd77542c2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"30e73d7d-414e-4489-aa3b-9f1c5fff2330","path":"sprites/_decompiled_ts_cottonblocks/_decompiled_ts_cottonblocks.yy",},},},"Disabled":false,"id":"5e7352ec-2a7f-4b6c-bdbf-417c78b8cefe","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d2a62f00-5c9b-43a6-84be-631657db6794","path":"sprites/_decompiled_ts_cottonblocks/_decompiled_ts_cottonblocks.yy",},},},"Disabled":false,"id":"3edd1d6e-0bc1-434e-a464-b00e45cfa641","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 672,
+  "width": 756,
 }

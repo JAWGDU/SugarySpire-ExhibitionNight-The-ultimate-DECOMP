@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_mountain2",
-  "bbox_bottom": 1471,
+  "bbox_bottom": 1619,
   "bbox_left": 0,
-  "bbox_right": 1439,
-  "bbox_top": 0,
+  "bbox_right": 1619,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4b60a18a-7165-4317-96ed-a65e088bd17a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"44420a06-33f4-41be-9db4-ff49ee2074c3",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1472,
+  "height": 1656,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4825041e-d524-4087-9c62-901dc9f31de3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"59a1089f-1e9d-4cff-b5e2-a70cb10ad06a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4b60a18a-7165-4317-96ed-a65e088bd17a","path":"sprites/_decompiled_ts_mountain2/_decompiled_ts_mountain2.yy",},},},"Disabled":false,"id":"bacddcca-5b30-4931-8e73-fdf47f2b6717","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"44420a06-33f4-41be-9db4-ff49ee2074c3","path":"sprites/_decompiled_ts_mountain2/_decompiled_ts_mountain2.yy",},},},"Disabled":false,"id":"e00fb62a-c566-4d64-ad79-c7dc4bb315d5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1440,
+  "width": 1620,
 }

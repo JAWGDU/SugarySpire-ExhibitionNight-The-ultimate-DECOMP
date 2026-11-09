@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_steamy3",
-  "bbox_bottom": 959,
+  "bbox_bottom": 791,
   "bbox_left": 0,
-  "bbox_right": 927,
+  "bbox_right": 1043,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"95dd9349-f5b3-40f6-b112-ac92f689e2e5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1b6c276d-0017-4c73-9e93-0b191cd9cb78",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 960,
+  "height": 1080,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d1f92d2e-2a64-4bdc-8ebe-085a3010a1e2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"682be021-c65a-4e1b-8c4c-73e487cb54f2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"95dd9349-f5b3-40f6-b112-ac92f689e2e5","path":"sprites/_decompiled_ts_steamy3/_decompiled_ts_steamy3.yy",},},},"Disabled":false,"id":"8696fed9-e186-4ab3-aeb2-5771fab12779","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1b6c276d-0017-4c73-9e93-0b191cd9cb78","path":"sprites/_decompiled_ts_steamy3/_decompiled_ts_steamy3.yy",},},},"Disabled":false,"id":"b531e76a-d356-4900-ac20-1b4fa06ffcd7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 928,
+  "width": 1044,
 }

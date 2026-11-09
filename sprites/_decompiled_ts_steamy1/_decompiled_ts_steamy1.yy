@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_steamy1",
-  "bbox_bottom": 1727,
+  "bbox_bottom": 1943,
   "bbox_left": 0,
-  "bbox_right": 1695,
-  "bbox_top": 0,
+  "bbox_right": 1907,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c6248985-f75d-43bf-8431-200b6e4274e1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"394d5d83-96ef-452c-b558-0ec25449e8f9",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1728,
+  "height": 1944,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f0c7ba81-2402-4d71-b4f0-b3403fcc44f9","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2aa45702-1818-41ed-ba8e-f3afefa6e863","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c6248985-f75d-43bf-8431-200b6e4274e1","path":"sprites/_decompiled_ts_steamy1/_decompiled_ts_steamy1.yy",},},},"Disabled":false,"id":"86b43fcb-b4ae-4880-bfe0-45133eda426d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"394d5d83-96ef-452c-b558-0ec25449e8f9","path":"sprites/_decompiled_ts_steamy1/_decompiled_ts_steamy1.yy",},},},"Disabled":false,"id":"1252dd53-09c8-4720-a769-a90dd829c05b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1696,
+  "width": 1908,
 }

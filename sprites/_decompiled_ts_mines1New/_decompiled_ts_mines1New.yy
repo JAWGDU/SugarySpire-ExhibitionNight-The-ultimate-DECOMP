@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_mines1New",
-  "bbox_bottom": 1471,
+  "bbox_bottom": 1655,
   "bbox_left": 0,
-  "bbox_right": 1439,
+  "bbox_right": 1619,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ac643392-fade-4d3c-b616-567d239f818a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"65ca9439-3274-45c1-97bd-bdc5ce778d21",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1472,
+  "height": 1656,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ac782114-99ce-481a-9b07-0f868a11cc42","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7108b52d-1b55-4c3b-af5d-d0932cc8ff4f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ac643392-fade-4d3c-b616-567d239f818a","path":"sprites/_decompiled_ts_mines1New/_decompiled_ts_mines1New.yy",},},},"Disabled":false,"id":"3aa65cbd-b86d-45df-b62b-89671b4d4913","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"65ca9439-3274-45c1-97bd-bdc5ce778d21","path":"sprites/_decompiled_ts_mines1New/_decompiled_ts_mines1New.yy",},},},"Disabled":false,"id":"96b2c7b4-e14b-45d4-a715-9414393733f5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1440,
+  "width": 1620,
 }

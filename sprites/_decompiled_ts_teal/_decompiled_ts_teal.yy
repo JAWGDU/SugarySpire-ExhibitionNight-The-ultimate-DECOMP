@@ -3,9 +3,9 @@
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_teal",
   "bbox_bottom": 575,
-  "bbox_left": 0,
-  "bbox_right": 575,
-  "bbox_top": 0,
+  "bbox_left": 2,
+  "bbox_right": 641,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1d8bc4ac-e454-44bf-b8f2-e0e1b453dc9d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"20ecb17c-d16e-4ac8-bf93-39b0d8c269d9",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 576,
+  "height": 648,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"967e67e8-f928-4e69-a41b-c5325feb414c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e82362ca-1742-402a-b897-ee644f41d1f8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1d8bc4ac-e454-44bf-b8f2-e0e1b453dc9d","path":"sprites/_decompiled_ts_teal/_decompiled_ts_teal.yy",},},},"Disabled":false,"id":"b1a271dc-22b1-4280-b20c-47bf15bf102c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"20ecb17c-d16e-4ac8-bf93-39b0d8c269d9","path":"sprites/_decompiled_ts_teal/_decompiled_ts_teal.yy",},},},"Disabled":false,"id":"3797b656-8648-4efb-8a4d-b1102bab2fa5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -65,10 +65,10 @@
   "swatchColours": null,
   "swfPrecision": 2.525,
   "textureGroupId": {
-    "name": "Sucrose",
-    "path": "texturegroups/Sucrose",
+    "name": "Default",
+    "path": "texturegroups/Default",
   },
   "type": 0,
   "VTile": false,
-  "width": 576,
+  "width": 648,
 }

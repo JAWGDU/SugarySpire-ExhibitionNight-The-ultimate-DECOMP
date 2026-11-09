@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_molasses1new",
-  "bbox_bottom": 1535,
+  "bbox_bottom": 1727,
   "bbox_left": 0,
-  "bbox_right": 1503,
-  "bbox_top": 0,
+  "bbox_right": 1691,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3876649d-c87e-4b35-b296-cc8bd920492d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2dc80366-4034-4adc-9aea-715650cde478",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1536,
+  "height": 1728,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7c4aa3aa-6b57-423e-90e6-b304482d9f99","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6b2907cb-587e-4ffa-94ea-642d86e19c99","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3876649d-c87e-4b35-b296-cc8bd920492d","path":"sprites/_decompiled_ts_molasses1new/_decompiled_ts_molasses1new.yy",},},},"Disabled":false,"id":"6aa7809a-e113-4e3c-8611-b0fff72daa0c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2dc80366-4034-4adc-9aea-715650cde478","path":"sprites/_decompiled_ts_molasses1new/_decompiled_ts_molasses1new.yy",},},},"Disabled":false,"id":"1258dc88-bc93-490a-9ea3-aecbdb17c1b9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1504,
+  "width": 1692,
 }

@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_mineshaftpattern",
-  "bbox_bottom": 735,
+  "bbox_bottom": 827,
   "bbox_left": 0,
-  "bbox_right": 735,
+  "bbox_right": 827,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a2cd1f81-c558-4ad9-919b-b5f8b52d9179",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1676f466-1166-4503-9996-d999d6a5ca0b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 736,
+  "height": 828,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3690568b-f662-4b59-936a-842880678d07","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2ec4be91-e522-4f25-a5dd-731961c5eda8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a2cd1f81-c558-4ad9-919b-b5f8b52d9179","path":"sprites/_decompiled_ts_mineshaftpattern/_decompiled_ts_mineshaftpattern.yy",},},},"Disabled":false,"id":"ef25b41a-4193-4dc9-ba77-9ccc7faf55d8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1676f466-1166-4503-9996-d999d6a5ca0b","path":"sprites/_decompiled_ts_mineshaftpattern/_decompiled_ts_mineshaftpattern.yy",},},},"Disabled":false,"id":"54b687a9-47b0-4af1-b4b3-427af63c46ce","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 736,
+  "width": 828,
 }

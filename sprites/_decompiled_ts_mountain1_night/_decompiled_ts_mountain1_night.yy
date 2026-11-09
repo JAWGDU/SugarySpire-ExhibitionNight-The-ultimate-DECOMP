@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_mountain1_night",
-  "bbox_bottom": 1471,
+  "bbox_bottom": 1259,
   "bbox_left": 0,
-  "bbox_right": 1439,
+  "bbox_right": 1619,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d2a9c11b-f30d-402d-9947-2ee23702a24f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a4a6d59c-c60e-497d-9168-919526f291b7",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1472,
+  "height": 1656,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4e7f69d1-1625-4e01-98d9-f88e2212000c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4afd5c99-46df-48ed-846f-5804f988e5dd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d2a9c11b-f30d-402d-9947-2ee23702a24f","path":"sprites/_decompiled_ts_mountain1_night/_decompiled_ts_mountain1_night.yy",},},},"Disabled":false,"id":"b63b852f-e382-4c21-a52f-db0c39e0b31e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a4a6d59c-c60e-497d-9168-919526f291b7","path":"sprites/_decompiled_ts_mountain1_night/_decompiled_ts_mountain1_night.yy",},},},"Disabled":false,"id":"e5127613-a446-4ab8-983b-8a7109379128","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1440,
+  "width": 1620,
 }

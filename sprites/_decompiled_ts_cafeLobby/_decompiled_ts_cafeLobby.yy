@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_cafeLobby",
-  "bbox_bottom": 575,
-  "bbox_left": 0,
+  "bbox_bottom": 467,
+  "bbox_left": 2,
   "bbox_right": 575,
-  "bbox_top": 0,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"75c459e7-1c35-4499-9801-9756e2fb07e6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f92b770-0506-4e67-bb00-6ca718eef3f6",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 576,
+  "height": 648,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4b01f45a-6ca5-47ca-8c23-3c0db400bf54","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c7bde023-2621-4b98-b0f3-0175d465b428","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"75c459e7-1c35-4499-9801-9756e2fb07e6","path":"sprites/_decompiled_ts_cafeLobby/_decompiled_ts_cafeLobby.yy",},},},"Disabled":false,"id":"2011f4e0-fcfc-4122-9757-81fafa07e038","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8f92b770-0506-4e67-bb00-6ca718eef3f6","path":"sprites/_decompiled_ts_cafeLobby/_decompiled_ts_cafeLobby.yy",},},},"Disabled":false,"id":"99c4c179-8117-4f0f-8d5d-204b4f1cbfc8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 576,
+  "width": 648,
 }

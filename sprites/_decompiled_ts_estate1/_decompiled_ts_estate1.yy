@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_estate1",
-  "bbox_bottom": 703,
+  "bbox_bottom": 719,
   "bbox_left": 0,
-  "bbox_right": 671,
+  "bbox_right": 755,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4a2d8352-ed8b-4999-9007-00e7531c0fe7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"299a3a60-5ffd-472a-a6d0-595bfea0bb88",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 704,
+  "height": 792,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5c2c46bb-62e9-4932-8e69-3492c4219c91","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f2449f26-df6a-4107-a68b-5c8457a8c7cc","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4a2d8352-ed8b-4999-9007-00e7531c0fe7","path":"sprites/_decompiled_ts_estate1/_decompiled_ts_estate1.yy",},},},"Disabled":false,"id":"9deef99e-7527-451e-950c-9c75d399bec7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"299a3a60-5ffd-472a-a6d0-595bfea0bb88","path":"sprites/_decompiled_ts_estate1/_decompiled_ts_estate1.yy",},},},"Disabled":false,"id":"234d66b8-78fb-4388-981d-8d3f6bca91d0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -65,10 +65,10 @@
   "swatchColours": null,
   "swfPrecision": 2.525,
   "textureGroupId": {
-    "name": "Cafe",
-    "path": "texturegroups/Cafe",
+    "name": "Backgrounds",
+    "path": "texturegroups/Backgrounds",
   },
   "type": 0,
   "VTile": false,
-  "width": 672,
+  "width": 756,
 }

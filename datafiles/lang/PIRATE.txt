@@ -1,0 +1,176 @@
+#-----------------------#
+# Basic Information
+#-----------------------#
+# Translation Name
+"language": "Pirate Speak"
+
+# Relative path to sprites folder
+#-----------------------#
+#      Important Notes     
+#
+# This folder must contain a Dictionary.json file
+# which lists any sprites to be replaced with images
+# from the given sprite path. Note that sprites 
+# without text are not supported for replacement.
+#
+# Animated sprites should utilise sprite strips
+# with no additional padding or offsets.
+#-----------------------#
+"langFolder": "PIRATE"
+
+#-----------------------#
+# UI Text
+#-----------------------#
+
+# Pause Menu
+"pause_resume" : "SET SAIL"
+"pause_options": "RIGGINGS"
+"pause_retry"  : "REEMBARK"
+"pause_tasks"  : "CHORES"
+"pause_exit"   : "JUMP SHIP"
+
+# Options Menu
+"opt_audio"        : "LISTENINGS"
+"opt_video"        : "LOOKS"
+"opt_game"         : "ADVENTURE"
+"opt_controls"     : "STEERING"
+"opt_accessibility": "ACCESSIBILITY"
+"opt_back"         : "TURN BACK"
+"opt_on"           : "AYE"
+"opt_off"          : "NAY"
+
+# Video Submenu
+"opt_vid_fullscreen"  : "FULL CANVAS"
+"opt_vid_resolution"  : "CANVAS SIZE"
+"opt_vid_smoothfilter": "SMOOTHIN"
+
+# Audio Submenu
+"opt_aud_master": "ALL EARS"
+"opt_aud_music" : "SHANTIES"
+"opt_aud_sfx"   : "NOISES"
+"opt_aud_focus" : "PLUG UNFOCUSED EARS"
+"opt_aud_speaker" : "AVAILABLE EARS"
+"opt_aud_speaker_desc" : "BOOOOOOOOOOOOONER !!!!!!"
+"opt_aud_stereo" : "TWO"
+"opt_aud_mono" : "ONE"
+
+# Controller Submenu
+
+"opt_ctrl_keyboard"             : "KEYBOARD"
+"opt_ctrl_controller"           : "CONTROLLER"
+"opt_ctrl_bindings"             : "BINDINGS"
+"opt_ctrl_keyboardsuperjump"    : "KEYBOARD SUPERJUMP"
+"opt_ctrl_keyboardgroundpound"  : "KEYBOARD GROUNDPOUND"
+"opt_ctrl_deadzones"            : "DEADZONES"
+"opt_ctrl_controllersuperjump"  : "CONTROLLER SUPERJUMP"
+"opt_ctrl_controllergroundpound": "CONTROLLER GROUNDPOUND"
+
+# Deadzone Setup Submenu
+"opt_ctrl_dz_gen"       : "GENERAL"
+"opt_ctrl_dz_vert"      : "VERTICAL"
+"opt_ctrl_dz_horiz"     : "HORIZONTAL"
+"opt_ctrl_dz_press"     : "PRESS"
+"opt_ctrl_dz_superjump" : "SUPERJUMP"
+"opt_ctrl_dz_crouchwalk": "CROUCHWALK"
+
+# Game Settings Submenu
+"opt_game_vibrate": "ROCK THE BOAT"
+"opt_game_timer"  : "POCKET WATCH"
+"opt_game_hitstun": "STUN YER FOES"
+
+# Accessibility Submenu
+"opt_access_lang": "TONGUE"
+
+# Keyconfig Input Names
+"opt_keyconfig_up"         : "up"
+"opt_keyconfig_down"       : "down"
+"opt_keyconfig_left"       : "left"
+"opt_keyconfig_right"      : "right"
+"opt_keyconfig_jump"       : "jump"
+"opt_keyconfig_slap"       : "slap"
+"opt_keyconfig_taunt"      : "taunt"
+"opt_keyconfig_shoot"      : "shoot"
+"opt_keyconfig_attack"     : "attack"
+"opt_keyconfig_superjump"  : "superjump"
+"opt_keyconfig_groundpound": "groundpound"
+"opt_keyconfig_start"      : "start"
+"opt_keyconfig_special"    : "special"
+
+# Keyconfig Controller Input Names
+"opt_keyconfig_upc"         : "upc"
+"opt_keyconfig_downc"       : "downc"
+"opt_keyconfig_leftc"       : "leftc"
+"opt_keyconfig_rightc"      : "rightc"
+"opt_keyconfig_jumpc"       : "jumpc"
+"opt_keyconfig_slapc"       : "slapc"
+"opt_keyconfig_tauntc"      : "tauntc"
+"opt_keyconfig_shootc"      : "shootc"
+"opt_keyconfig_attackc"     : "attackc"
+"opt_keyconfig_superjumpc"  : "superjumpc"
+"opt_keyconfig_groundpoundc": "groundpoundc"
+"opt_keyconfig_startc"      : "startc"
+"opt_keyconfig_specialc"    : "specialc"
+
+# Keyconfig UI Text
+"opt_keyconfig_inputprompt": "PRESS ANY BUTTON"
+"opt_keyconfig_bind"       : "BIND"
+"opt_keyconfig_clear"      : "CLEAR"
+"opt_keyconfig_reset"      : "RESET"
+
+# Key Names
+# Keyboard
+"key_left"       : "LEFT"
+"key_right"      : "RIGHT"
+"key_up"         : "UP"
+"key_down"       : "DOWN"
+"key_enter"      : "ENTER"
+"key_escape"     : "ESCAPE"
+"key_space"      : "SPACE"
+"key_shift"      : "SHIFT"
+"key_control"    : "CONTROL"
+"key_alt"        : "ALT"
+"key_backspace"  : "BACKSPACE"
+"key_tab"        : "TAB"
+"key_home"       : "HOME"
+"key_end"        : "END"
+"key_delete"     : "DELETE"
+"key_insert"     : "INSERT"
+"key_pageup"     : "PAGE UP"
+"key_pagedown"   : "PAGE DOWN"
+"key_pause"      : "PAUSE"
+"key_printscreen": "PRINTSCREEN"
+"key_numpad0"    : "NUMPAD 0"
+"key_numpad1"    : "NUMPAD 1"
+"key_numpad2"    : "NUMPAD 2"
+"key_numpad3"    : "NUMPAD 3"
+"key_numpad4"    : "NUMPAD 4"
+"key_numpad5"    : "NUMPAD 5"
+"key_numpad6"    : "NUMPAD 6"
+"key_numpad7"    : "NUMPAD 7"
+"key_numpad8"    : "NUMPAD 8"
+"key_numpad9"    : "NUMPAD 9"
+"key_multiply"   : "MULTIPLY"
+"key_divide"     : "DIVIDE"
+"key_add"        : "ADD"
+"key_subtract"   : "SUBTRACT"
+"key_decimal"    : "DECIMAL"
+
+# Controller
+"key_select"  : "SELECT"
+"key_start"   : "START"
+"key_stickl"  : "STICK L"
+"key_stickr"  : "STICK R"
+"key_padup"   : "UP"
+"key_padleft" : "LEFT"
+"key_padright": "RIGHT"
+"key_paddown" : "DOWN"
+
+# Undefined
+"key_presskey": "PRESS KEY"
+
+#-----------------------#
+# Debug stuff
+#-----------------------#
+"filler": "lol"
+"hello": "Hi!"
+"loadingSprites": "LOADING TRANSLATION..."

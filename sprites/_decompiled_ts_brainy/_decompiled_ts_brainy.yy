@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "_decompiled_ts_brainy",
-  "bbox_bottom": 1183,
+  "bbox_bottom": 1151,
   "bbox_left": 0,
-  "bbox_right": 1183,
+  "bbox_right": 1331,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"01e168c8-c721-4978-8704-872446f82a4d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2948fc44-da06-4bbb-830a-8c7c607407c1",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1184,
+  "height": 1332,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"caa69520-f73e-476c-bc38-25dd6286e54f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"03ef97e3-72d2-4bc6-b820-c41d2aa42432","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"01e168c8-c721-4978-8704-872446f82a4d","path":"sprites/_decompiled_ts_brainy/_decompiled_ts_brainy.yy",},},},"Disabled":false,"id":"8edb670e-0fb1-4aaf-b9a7-df35752190a2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2948fc44-da06-4bbb-830a-8c7c607407c1","path":"sprites/_decompiled_ts_brainy/_decompiled_ts_brainy.yy",},},},"Disabled":false,"id":"fc60a60c-0671-496a-b0fb-8717ba01a020","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1184,
+  "width": 1332,
 }

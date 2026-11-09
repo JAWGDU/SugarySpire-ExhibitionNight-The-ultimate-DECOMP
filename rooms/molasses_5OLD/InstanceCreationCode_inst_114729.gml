@@ -1,0 +1,1 @@
+targetDoor = obj_doorB;

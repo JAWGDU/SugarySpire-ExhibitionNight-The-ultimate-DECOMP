@@ -47,7 +47,7 @@ function scr_levelSet()
     
     global.ExitGateTaunt = 0;
     global.TransfoPrompt = "";
-    global.TransfoState = (1 << 0);
+    global.TransfoState = UnknownEnum.Value_1;
     global.freezeframe = false;
     global.greyscalefade = 0;
     global.EscapeTime = 4000;
@@ -173,7 +173,7 @@ function scr_levelSet()
         groundedSlope = false;
         targetDoor = "A";
         fireTrailBuffer = 0;
-        state = (26 << 0);
+        state = UnknownEnum.Value_26;
         image_index = 0;
         sprite_index = spr_walkfront;
         trace("Levelset");
