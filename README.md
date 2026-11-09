@@ -1,7 +1,9 @@
-# Sugary Spire: Exhibition Night Decomp
+# Sugary Spire: Exhibition Night The ultimate Decomp
 
 This repository contains a work-in-progress decompilation of the "Sugary Spire: Exhibition Night" demo. The current build is nearly 100% faithful to the original.
+this decomp its a fork from Aness6040 decomp,
 
+theres some issues like some weird collision bugs w slop plat and plat, and some tile errors, aslo some player state arent set yet, you could set them up, I leave them as a comentary
 
 ## Requirements
 
